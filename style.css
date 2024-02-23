@@ -1,0 +1,38 @@
+body.background{
+    background-color: black;
+}
+h1.style_heading,h2.style_heading{
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+h5.style{
+    color:aquamarine;
+    color: #7FFFD4;
+    font-size: 16px;
+    text-align: center;
+}
+h2.style{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: weight 300px;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+h5.style1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+#styling{
+    text-align: center;
+    padding-top:20px;;
+   }
+#style2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    text-align: end;
+}
