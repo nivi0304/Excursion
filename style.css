@@ -35,7 +35,9 @@ h5.style1{
     width: 50%; 
     margin-left: auto;
     margin-right: auto;
-    display: block;
+    display: flex;
+   justify-content: center;
+   align-items: center;
 }
 #style2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
